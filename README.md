@@ -1,0 +1,2 @@
+# .goland
+My Goland configuration.
