@@ -3,6 +3,7 @@
     <sdk-path>
       <set>
         <option value="" />
+        <option value="$USER_HOME$/.goenv/versions/1.11.6" />
         <option value="$USER_HOME$/.goenv/versions/1.12.12" />
         <option value="$USER_HOME$/.goenv/versions/1.12.13" />
         <option value="$USER_HOME$/.goenv/versions/1.12.4" />
