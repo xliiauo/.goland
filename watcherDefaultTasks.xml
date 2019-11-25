@@ -2,7 +2,7 @@
   <component name="ApplicationTasksOptions">
     <global-watchers>
       <TaskOptions>
-        <option name="arguments" value="fmt $FilePath$ -s" />
+        <option name="arguments" value="fmt $FilePath$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
