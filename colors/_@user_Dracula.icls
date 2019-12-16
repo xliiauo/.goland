@@ -3,7 +3,7 @@
     <property name="created">2019-12-16T15:54:32</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-16T15:56:52</property>
+    <property name="modified">2019-12-16T16:15:04</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <colors>
@@ -544,7 +544,7 @@
     </option>
     <option name="GO_EXPORTED_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="bd93f9" />
+        <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
     <option name="GO_EXPORTED_FUNCTION_CALL">
@@ -602,7 +602,7 @@
     </option>
     <option name="GO_LOCAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="b9bcd1" />
+        <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
     <option name="GO_LOCAL_FUNCTION_CALL">
